@@ -1,0 +1,159 @@
+/* My CSS */
+
+BODY
+{
+BACKGROUND: #000000 repeat-x 0px 0px;
+text-align: center;
+padding-top: 5px;
+margin: 5px;
+}
+
+hr
+{
+color: #0000c8;
+text-align: center;
+padding-top: 0px;
+margin: 0px;
+}
+
+.main
+{
+background-color: #000000;
+text-align: center;
+padding-top: 5px;
+margin: 5px;
+}
+
+.left
+{
+background-color: #197bff;
+text-align: center;
+color: #0000c8;
+font-size: 100%;
+font-weight: bold;
+font-family: arial;
+border-left: solid #197bff;
+border-width: 0px;
+}
+
+.bottom
+{
+text-align: center;
+color: #bababa;
+background-color: #0000c8;
+font-size: 44%;
+font-weight: bold;
+font-family: arial;
+}
+
+p
+{
+text-align: center;
+color: #0000c8;
+background-color: transparent;
+font-size: 100%;
+font-weight: normal;
+font-family: arial;
+padding-left: 0px;
+padding-right: 0px;
+}
+
+.toppad
+{
+text-align: center;
+color: #0000c8;
+background-color: transparent;
+font-size: 100%;
+font-weight: normal;
+font-family: arial;
+padding-top: 20px;
+padding-bottom: 0px;
+padding-left: 0px;
+padding-right: 0px;
+}
+
+.list
+{
+text-align: center;
+color: #0000c8;
+background-color: transparent;
+font-size: 75%;
+font-weight: normal;
+font-family: arial;
+margin-top: 10 px;
+margin-bottom: 10 px;
+padding-top: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+padding-right: 0px;
+}
+
+.count
+{
+text-align: center;
+color: #0000c8;
+background-color: transparent;
+font-size: 100%;
+font-weight: normal;
+font-family: arial;
+padding-top: 190px;
+padding-left: 25px;
+padding-right: 25px;
+}
+
+.player
+{
+text-align: center;
+color: #0000c8;
+background-color: transparent;
+font-size: 100%;
+font-weight: normal;
+font-family: arial;
+padding-top: 550px;
+padding-left: 0px;
+padding-right: 0px;
+}
+
+h1
+{
+text-align: center;
+color: #0000c8;
+background-color: transparent;
+font-size: 150%;
+font-weight: bold;
+font-family: arial;
+text-decoration: underline;
+padding-top: 15px;
+}
+
+h2
+{
+text-align: center;
+color: #0000c8;
+background-color: transparent;
+font-size: 300%;
+font-weight: bold;
+font-family: arial;
+padding-top: 15px;
+}
+
+a
+{
+text-align: center;
+text-decoration:none;
+color: #0000c8;
+background-color: transparent;
+font-size: 100%;
+font-weight: bold;
+font-family: arial;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 0px;
+padding-right: 0px;
+margin: 0px;
+}
+
+a:link {color: #0000c8}
+a:visited {color: #0000c8}
+a:hover {color: #ffffff; font-weight: bold}
+a:active {color: #0000c8}
